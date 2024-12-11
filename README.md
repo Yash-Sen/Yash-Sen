@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at yashmika1100@gmail.com
   
-
+- Connect with me through Linkedin www.linkedin.com/in/yashmika-senadheera
 <!---
 Yash-Sen/Yash-Sen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
